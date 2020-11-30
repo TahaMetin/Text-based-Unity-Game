@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1bf5eb3e753bce49931cda2b281b10b, type: 3}
+  m_Name: A221
+  m_EditorClassIdentifier: 
+  HikayeMetni: "Evet adadan kurtulmay\u0131 ba\u015Fard\u0131n. Bindi\u011Fin o gemide
+    ki ya\u015Fl\u0131 bir kaptan sana yard\u0131m etti ve seni ya\u015Fad\u0131\u011F\u0131n
+    \xFClkenin liman\u0131na ula\u015Ft\u0131rd\u0131. Art\u0131k \xF6zg\xFCrs\xFCn...\n\nOyuna
+    tekrar ba\u015Flamak ister misin?\n\n1)Evet"
+  SonrakiDurumlar:
+  - {fileID: 11400000, guid: 64804bdce8ac3e64dafa9300e64cf759, type: 2}

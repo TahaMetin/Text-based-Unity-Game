@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1bf5eb3e753bce49931cda2b281b10b, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  HikayeMetni: "Malesef yanl\u0131\u015F se\xE7imi yapt\u0131n.\r\n\r\n\u0130nsan\u0131n
+    yan\u0131na gittin ve verecek bir hediyen olmad\u0131\u011F\u0131 i\xE7in o insan
+    bu duruma \xE7ok sinirlendi. Ve senin verecek hediyen olmad\u0131\u011F\u0131
+    i\xE7in geleneklere g\xF6re seni bir kazanda pi\u015Firip yiyecekler.\r\n\r\n1)
+    Evet\r\n\r\n"
+  SonrakiDurumlar:
+  - {fileID: 11400000, guid: 64804bdce8ac3e64dafa9300e64cf759, type: 2}
